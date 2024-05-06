@@ -1,0 +1,12 @@
+{
+  "name": "diggerdoc",
+  "version": "1.0.0",
+  "description": "Diggerdoc is a app for service of excavators and wheelloaders",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  },
+  "author": "Joel Hellberg",
+  "license": "ISC"
+}
