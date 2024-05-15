@@ -7,12 +7,6 @@ export default function Home() {
       <p>
         The App for all your heavy machine service needs.
       </p>
-      <Image
-        src="/diggerdoc.png"
-        alt="DiggerDoc Logo"
-        width={200}
-        height={200}
-      />
     </div>
   );
 }
